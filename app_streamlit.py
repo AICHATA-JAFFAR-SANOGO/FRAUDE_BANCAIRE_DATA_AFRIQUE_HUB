@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # URL de l'API FastAPI
-api_url = "https://fast-api-aichata-detection-fraude.onrender.com"
+api_url = "https://fast-api-aichata-detection-fraude.onrender.com/predict/"
 
 # Chargement des noms des colonnes (incluant les V1 à V28 et Amount)
 X_columns = [
