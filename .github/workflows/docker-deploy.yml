@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: aichatajaffarsanogo312/fastapi-streamlit-app-Detection-Fraudes-Bancaires-AICHATA:latest
+          tags: aichatajaffarsanogo312/fastapi-streamlit-app-detection-fraudes-bancaires-aichata:latest
